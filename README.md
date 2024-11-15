@@ -11,7 +11,7 @@ In this paper, we introduce a VAE-based pre-trained Transformer method for micro
 * ``pip install -r requiremnts.txt``
 
 ## Data availability
-All the datasets used in this paper can be downloaded from url：https://doi.org/10.5281/zenodo.14166580. All data are sourced from the original paper：``The cancer microbiome atlas: a pan-cancer comparative analysis to distinguish tissue-resident microbiota from contaminants``.
+All the datasets used in this paper can be downloaded from url：https://doi.org/10.5281/zenodo.14166580. All data are sourced from the original paper：``The cancer microbiome atlas: a pan-cancer comparative analysis to distinguish tissue-resident microbiota from contaminants``. For details, please refer to：https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30663-6
 
 ## Data preprocessing
 Before running VTrans, you need to perform data preprocessing：
