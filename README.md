@@ -12,6 +12,7 @@ In this paper, we introduce a VAE-based pre-trained Transformer method for micro
 
 ## Data availability
 All the datasets used in this paper can be downloaded from url：https://doi.org/10.5281/zenodo.14166580. 
+
 All data are sourced from the original paper：``The cancer microbiome atlas: a pan-cancer comparative analysis to distinguish tissue-resident microbiota from contaminants``. For details, please refer to：https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30663-6
 
 ## Data preprocessing
