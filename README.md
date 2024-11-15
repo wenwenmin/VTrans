@@ -14,6 +14,11 @@ In this paper, we introduce a VAE-based pre-trained Transformer method for micro
 All the datasets used in this paper can be downloaded from url：https://doi.org/10.5281/zenodo.14166580.
 
 ## Data preprocessing
+Before running VTrans, you need to perform data preprocessing：
+* you can obtain the preprocessed microbiome data through this script.
+* you can obtain the classification labels corresponding to each sample through this script.
+
+## Data preprocessing
 If you wish to perform data preprocessing, you can run the script in the Jupyter folder.
 
 ## Pre-train VAE
