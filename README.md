@@ -18,11 +18,11 @@ Before running VTrans, you need to perform data preprocessing：
 * ``data_process/VAE_data_preparation.ipynb``: you can obtain microbiome data compatible with the pre-trained VAE model through this script.
 * ``data_process/VTrans_data_preparation.ipynb``: you can obtain training and testing data compatible with the VTrans model, including normalized microbiome data and the classification labels corresponding to each sample through this script.
 
-## Data preprocessing
-If you wish to perform data preprocessing, you can run the script in the Jupyter folder.
-
 ## Pre-train VAE
-``python pretrain_vae/vae_main.py``
+``python pretrain_vae/vae_main.py``：you can perform the pre-training process for the VAE model through this script.
 
 ## Training VTrans
-``python VTrans/main.py``
+``python VTrans/main.py``：you can run the VTrans model through this script.
+
+## Contact details
+If you have any questions, please contact shixinyuan217@aliyun.com.
