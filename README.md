@@ -10,8 +10,8 @@ In this paper, we introduce a VAE-based pre-trained Transformer method for micro
 * NVIDIA GPU (both pretrained VAE and trained VTrans on a single Nvidia GeForce RTX 3090)
 * ``pip install -r requiremnts.txt``
 
-## Data
-All the datasets used in this paper can be downloaded from url：https://doi.org/10.5281/zenodo.14166580.
+## Data availability
+All the datasets used in this paper can be downloaded from url：https://doi.org/10.5281/zenodo.14166580. All data are sourced from the original paper：``The cancer microbiome atlas: a pan-cancer comparative analysis to distinguish tissue-resident microbiota from contaminants``.
 
 ## Data preprocessing
 Before running VTrans, you need to perform data preprocessing：
