@@ -15,7 +15,7 @@ All the datasets used in this paper can be downloaded from url：https://doi.org
 
 ## Data preprocessing
 Before running VTrans, you need to perform data preprocessing：
-* data_process/VAE_data_preparation.ipynb: you can obtain microbiome data compatible with the pre-trained VAE model through this script.
+* (data_process/VAE_data_preparation.ipynb): you can obtain microbiome data compatible with the pre-trained VAE model through this script.
 * data_process/VTrans_data_preparation.ipynb: you can obtain training and testing data compatible with the VTrans model, including normalized microbiome data and the classification labels corresponding to each sample through this script.
 
 ## Data preprocessing
